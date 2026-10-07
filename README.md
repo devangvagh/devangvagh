@@ -1,16 +1,14 @@
-## Hi there 👋
+# Devang Vagh
 
-<!--
-**devangvagh/devangvagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graphic designer with 8 years of experience across corporate IT, print studio, and freelance work.
 
-Here are some ideas to get you started:
+**What I do**
+- Art direction and visual identity
+- Logo design and brand identity
+- Print and packaging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Where I'm headed**
+Becoming an AI-native designer, learning to build and ship with AI tools.
+
+**Selected work**
+Top 5 finalist, national logo competition for the Department of Tourism, UT Ladakh (2023).
